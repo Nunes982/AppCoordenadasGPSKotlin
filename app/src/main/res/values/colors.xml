@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Personalizar cores para app Coordenadas GPS -->
+    <color name="dark">#1B1B1B</color>
+    <color name="dark_background">#181818</color>
+    <color name="verde_limao">#75C728</color>
+</resources>
